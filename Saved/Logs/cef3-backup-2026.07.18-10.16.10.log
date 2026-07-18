@@ -1,0 +1,53 @@
+[8732:17948:0718/115222.583:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8732:15384:0718/115222.615:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8732:17948:0718/115222.633:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6916:2128:0718/115225.522:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E25F96DE1F88CB5603AFE2811BF640BE will be ignored
+[16424:2060:0718/115226.508:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-13472180E9554DFA0BED31A50D94ABF2 will be ignored
+[5088:16420:0718/115229.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5088:16420:0718/115229.064:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5088:16420:0718/115238.063:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5088:16420:0718/115250.867:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8128:13000:0718/115308.288:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-BD2BA752A720A2AAD33C0D73BCEE89DF will be ignored
+[6304:6992:0718/115317.542:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[6304:4344:0718/115317.666:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[6304:3652:0718/115317.875:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[6304:4344:0718/115317.892:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[6304:9528:0718/115318.650:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.650:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.650:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.650:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.654:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[6304:9528:0718/115318.748:ERROR:gl_utils.cc(415)] [.WebGL-000046B802FFA200] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[5088:16420:0718/115428.890:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5088:16420:0718/115429.607:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5088:16420:0718/115444.517:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5088:16420:0718/115459.852:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8732:17948:0718/121610.575:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,56 @@
+[9792:16728:0717/234707.379:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9792:20836:0717/234707.406:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9792:16728:0717/234707.416:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19352:13128:0717/234711.133:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8873A0BD396C1C97DE520143F8CA1FF9 will be ignored
+[10184:19764:0717/234711.960:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10184:8292:0717/234711.995:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10184:8292:0717/234711.996:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10184:8292:0717/234711.997:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9792:7096:0717/234713.139:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[9792:16728:0717/234713.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9792:16728:0717/234713.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9792:16728:0717/234713.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9792:16728:0717/234713.469:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[9792:7096:0717/234713.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17368:5072:0717/234714.473:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17368:5072:0717/234714.476:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9792:7096:0717/234714.580:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6352:12992:0717/234714.799:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6352:4692:0717/234714.823:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6352:4692:0717/234714.823:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6352:4692:0717/234714.823:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17368:5072:0717/234715.171:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17368:5072:0717/234715.198:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6352:12992:0717/234717.849:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17368:5072:0717/234725.795:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17368:5072:0717/234728.318:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17368:5072:0717/234734.675:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17368:5072:0717/234736.815:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20792:7680:0717/234921.732:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[20792:7680:0717/234921.732:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5188:21304:0717/235739.237:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-99D12D157E14A6CBD18D5B8B921C45D6 will be ignored
+[20792:7884:0717/235820.562:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[20792:13228:0717/235820.663:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[20792:14124:0717/235820.941:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[20792:13228:0717/235820.947:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[20792:7680:0717/235821.330:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.336:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.336:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.336:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.342:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.342:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.343:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[20792:7680:0717/235821.343:ERROR:gl_utils.cc(415)] [.WebGL-000059B804759C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[19032:19664:0718/000150.409:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-DDD5118CFD469B929BF6E39575C1DB8B will be ignored
+[20204:4708:0718/000713.385:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-F53F4AAB7354A02ED8799D39D4A76111 will be ignored
+[9792:16728:0718/013321.966:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
